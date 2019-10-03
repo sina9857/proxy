@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## پروکسی‌های رایگان تلگرام
+- [Proxy1](tg://proxy?server=jxyy6lsw.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000)
+- [Proxy2](tg://proxy?server=0xd8ad6f8a&port=443&secret=ddd41d8cd98f00b204e9800998ecf8427e)
 
-You can use the [editor on GitHub](https://github.com/sina9857/proxy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+جهت استفاده بعد از کلیک روی هر کدام از لینک‌های بالا، بعد از باز شدن تلگرام تایید کنید و از تلگرام لذت ببرید.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### درج پروکسی‌های شما
+جهت درج پروکسی‌های شما و ارتباط با ما عضو کانال ما شوید
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sina9857/proxy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## [tg.me/tg0098](tg://join?invite=AAAAAFTTuXZo2NuWyUFY4w)
