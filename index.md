@@ -1,5 +1,9 @@
 ## پروکسی‌های رایگان تلگرام
 
+| 98/08/09 |درج شده در تاریخ| پروکسی‌های |
+|:---:|:---:|:---:|
+|[**Proxy10**](tg://proxy?server=so.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651)|[**Proxy11**](tg://proxy?server=and.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651)|[**Proxy12**](tg://proxy?server=plus.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651)|
+
 | 98/07/28 |درج شده در تاریخ| پروکسی‌های |
 |:---:|:---:|:---:|
 |[**Proxy7**](tg://proxy?server=mtproto.express-proxy.eu&port=8853&secret=dd80000000000000000000000000000008)|[**Proxy8**](tg://proxy?server=proxy.express-proxy.eu&port=769&secret=dd80000000000000000000000000000008)|[**Proxy9**](tg://proxy?server=mtproto.express-proxy.eu&port=880&secret=dd00000000000000000000000000000000)|
