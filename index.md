@@ -1,5 +1,10 @@
 ## پروکسی‌های رایگان تلگرام
 
+
+| 98/10/05 |درج شده در تاریخ| پروکسی‌های |
+|:---:|:---:|:---:|
+|[**Proxy13**](tg://proxy?server=hereon.iProxy.cloud&port=443&secret=dd00000000000000000000000000000000)|[**Proxy14**](tg://proxy?server=unpunishable.iProxy.cloud&port=443&secret=dd00000000000000000000000000000000)|[**Proxy15**](tg://proxy?server=server=gundernourishments.iProxy.cloud&port=443&secret=ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d)|
+
 | 98/08/09 |درج شده در تاریخ| پروکسی‌های |
 |:---:|:---:|:---:|
 |[**Proxy10**](tg://proxy?server=so.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651)|[**Proxy11**](tg://proxy?server=and.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651)|[**Proxy12**](tg://proxy?server=plus.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651)|
