@@ -1,6 +1,10 @@
 ## پروکسی‌های رایگان تلگرام
 
 
+| 98/12/11 |درج شده در تاریخ| پروکسی‌های |
+|:---:|:---:|:---:|
+|[**Proxy16**](tg://proxy?server=excruciate.Hercules.blue&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3d3cuZGlnaXRhbG9jZWFuLmNvbQ)|[**Proxy17**](tg://proxy?server=prefix.Hercules.blue&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3d3cuZGlnaXRhbG9jZWFuLmNvbQ)|[**Proxy18**](tg://proxy?server=crankshaft.loder.pro&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3d3cuZGlnaXRhbG9jZWFuLmNvbQ)|
+
 | 98/10/05 |درج شده در تاریخ| پروکسی‌های |
 |:---:|:---:|:---:|
 |[**Proxy13**](tg://proxy?server=hereon.iProxy.cloud&port=443&secret=dd00000000000000000000000000000000)|[**Proxy14**](tg://proxy?server=unpunishable.iProxy.cloud&port=443&secret=dd00000000000000000000000000000000)|[**Proxy15**](tg://proxy?server=server=gundernourishments.iProxy.cloud&port=443&secret=ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d)|
